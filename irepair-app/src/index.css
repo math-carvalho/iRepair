@@ -1,0 +1,7 @@
+@import "tailwindcss"; 
+
+/* Estilo global do corpo da página */
+
+body {
+    background-color: oklch(27.8% 0.033 256.848);  /* gray-800 no Tailwind */
+}
